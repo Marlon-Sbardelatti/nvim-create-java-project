@@ -24,9 +24,6 @@ To create a new Java project named "MyJavaProject," run the following command:
 mkjava.sh + MyJavaProject
 The project structure will be created in the current directory.
 
-# Notes
-Please ensure you have Neovim installed on your system before using this script.
-
 # Contribution
 If you have suggestions for improving the script or want to report issues, feel free to contribute by forking the repository and creating a pull request.
 
@@ -55,9 +52,6 @@ Para criar um novo projeto Java chamado "MyJavaProject," execute o seguinte coma
 mkjava.sh + MyJavaProject
 
 A estrutura do projeto será criada no diretório atual.
-
-# Notas
-Certifique-se de ter o Neovim instalado em seu sistema antes de usar este script.
 
 # Contribuição
 Se você tiver sugestões para melhorar o script ou quiser relatar problemas, sinta-se à vontade para contribuir fazendo um fork do repositório e criando uma pull request.
